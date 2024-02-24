@@ -1,0 +1,1 @@
+# tauri_first_app
